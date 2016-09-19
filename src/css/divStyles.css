@@ -1,0 +1,15 @@
+.box {
+background-color: #C0C0C0;
+border: 5px solid blue;
+width:200;
+height:400;
+position: absolute;
+}
+
+.box1 {
+margin-left: 260px;
+background-color: #C0C0C0;
+border: 5px solid blue;
+width:200;
+height:400;
+}
